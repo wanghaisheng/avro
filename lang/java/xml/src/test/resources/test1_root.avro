@@ -1,0 +1,132 @@
+{
+  "gMonth" : {
+    "string" : "--07"
+  },
+  "idref" : {
+    "string" : "idvalue0"
+  },
+  "boolean" : {
+    "boolean" : true
+  },
+  "hexBinary" : {
+    "bytes" : "\u000F\u0000"
+  },
+  "name" : {
+    "string" : "Name"
+  },
+  "qname" : {
+    "org.w3.www.2001.XMLSchema.qName" : {
+      "namespace" : "",
+      "localPart" : "QName"
+    }
+  },
+  "byte" : {
+    "int" : 57
+  },
+  "token" : {
+    "string" : "xmlSchema"
+  },
+  "base64Binary" : {
+    "bytes" : "0"
+  },
+  "gYear" : {
+    "string" : "2014"
+  },
+  "time" : {
+    "string" : "12:47:30"
+  },
+  "gMonthDay" : {
+    "string" : "--07-27"
+  },
+  "short" : {
+    "int" : -32768
+  },
+  "id" : {
+    "string" : "idvalue0"
+  },
+  "nonNegativeInteger" : {
+    "bytes" : "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+  },
+  "long" : {
+    "long" : 9223372036854775807
+  },
+  "date" : {
+    "string" : "2014-07-27"
+  },
+  "float" : {
+    "float" : 0.0
+  },
+  "nmtoken" : {
+    "string" : "NMTOKEN"
+  },
+  "nmtokens" : {
+    "array" : [ "NMTOKENS" ]
+  },
+  "unsignedShort" : {
+    "int" : 65535
+  },
+  "nonPositiveInteger" : {
+    "bytes" : "\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+  },
+  "entity" : null,
+  "dateTime" : {
+    "string" : "2014-07-27T12:47:30"
+  },
+  "gYearMonth" : {
+    "string" : "2014-07"
+  },
+  "gDay" : {
+    "string" : "---27"
+  },
+  "anySimpleType" : null,
+  "anyURI" : {
+    "string" : "http://tempuri.org"
+  },
+  "language" : {
+    "string" : "EN"
+  },
+  "unsignedLong" : {
+    "bytes" : "\u0000ÿÿÿÿÿÿÿÿ"
+  },
+  "string" : {
+    "string" : "hello"
+  },
+  "ncName" : {
+    "string" : "NCName"
+  },
+  "duration" : {
+    "string" : "P1D"
+  },
+  "positiveInteger" : {
+    "bytes" : "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+  },
+  "double" : {
+    "double" : 32768.32768
+  },
+  "entities" : null,
+  "idrefs" : {
+    "array" : [ "idvalue0" ]
+  },
+  "decimal" : {
+    "bytes" : "\u0001\u0000\u0000"
+  },
+  "normalizedString" : {
+    "string" : "xmlIsFun"
+  },
+  "int" : {
+    "int" : 2147483647
+  },
+  "unsignedInt" : {
+    "long" : 4294967295
+  },
+  "negativeInteger" : {
+    "bytes" : "\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+  },
+  "unsignedByte" : {
+    "int" : 255
+  },
+  "integer" : {
+    "bytes" : "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+  },
+  "root" : [ ]
+}

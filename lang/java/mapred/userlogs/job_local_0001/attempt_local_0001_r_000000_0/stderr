@@ -1,0 +1,30 @@
+659 [SocketServer on 0.0.0.0/0.0.0.0:0] INFO org.apache.avro.ipc.SocketServer - starting /0:0:0:0:0:0:0:0
+722 [Connection to /127.0.0.1:34178] INFO org.apache.avro.mapred.tether.TetherTaskRunner - got configure
+743 [Connection to /127.0.0.1:34178] INFO org.apache.avro.mapred.tether.TetherTaskRunner - got input complete
+743 [Connection to /127.0.0.1:34178] INFO org.apache.avro.ipc.SaslSocketTransceiver - closing to 0.0.0.0/0.0.0.0:54840
+744 [SocketServer on 0.0.0.0/0.0.0.0:0] INFO org.apache.avro.ipc.SocketServer - stopping /0:0:0:0:0:0:0:0
+653 [SocketServer on 0.0.0.0/0.0.0.0:0] INFO org.apache.avro.ipc.SocketServer - starting /0:0:0:0:0:0:0:0
+716 [Connection to /127.0.0.1:45697] INFO org.apache.avro.mapred.tether.TetherTaskRunner - got configure
+738 [Connection to /127.0.0.1:45697] INFO org.apache.avro.mapred.tether.TetherTaskRunner - got input complete
+739 [Connection to /127.0.0.1:45697] INFO org.apache.avro.ipc.SaslSocketTransceiver - closing to 0.0.0.0/0.0.0.0:49585
+740 [SocketServer on 0.0.0.0/0.0.0.0:0] INFO org.apache.avro.ipc.SocketServer - stopping /0:0:0:0:0:0:0:0
+736 [SocketServer on 0.0.0.0/0.0.0.0:0] INFO org.apache.avro.ipc.SocketServer - starting /0:0:0:0:0:0:0:0
+794 [Connection to /127.0.0.1:38785] INFO org.apache.avro.mapred.tether.TetherTaskRunner - got configure
+815 [Connection to /127.0.0.1:38785] INFO org.apache.avro.mapred.tether.TetherTaskRunner - got input complete
+815 [Connection to /127.0.0.1:38785] INFO org.apache.avro.ipc.SaslSocketTransceiver - closing to 0.0.0.0/0.0.0.0:34986
+816 [SocketServer on 0.0.0.0/0.0.0.0:0] INFO org.apache.avro.ipc.SocketServer - stopping /0:0:0:0:0:0:0:0
+730 [SocketServer on 0.0.0.0/0.0.0.0:0] INFO org.apache.avro.ipc.SocketServer - starting /0:0:0:0:0:0:0:0
+796 [Connection to /127.0.0.1:33238] INFO org.apache.avro.mapred.tether.TetherTaskRunner - got configure
+816 [Connection to /127.0.0.1:33238] INFO org.apache.avro.mapred.tether.TetherTaskRunner - got input complete
+817 [Connection to /127.0.0.1:33238] INFO org.apache.avro.ipc.SaslSocketTransceiver - closing to 0.0.0.0/0.0.0.0:41878
+818 [SocketServer on 0.0.0.0/0.0.0.0:0] INFO org.apache.avro.ipc.SocketServer - stopping /0:0:0:0:0:0:0:0
+647 [SocketServer on 0.0.0.0/0.0.0.0:0] INFO org.apache.avro.ipc.SocketServer - starting /0:0:0:0:0:0:0:0
+713 [Connection to /127.0.0.1:37899] INFO org.apache.avro.mapred.tether.TetherTaskRunner - got configure
+758 [Connection to /127.0.0.1:37899] INFO org.apache.avro.mapred.tether.TetherTaskRunner - got input complete
+768 [Connection to /127.0.0.1:37899] INFO org.apache.avro.ipc.SaslSocketTransceiver - closing to 0.0.0.0/0.0.0.0:46369
+780 [SocketServer on 0.0.0.0/0.0.0.0:0] INFO org.apache.avro.ipc.SocketServer - stopping /0:0:0:0:0:0:0:0
+675 [SocketServer on 0.0.0.0/0.0.0.0:0] INFO org.apache.avro.ipc.SocketServer - starting /0:0:0:0:0:0:0:0
+739 [Connection to /127.0.0.1:52489] INFO org.apache.avro.mapred.tether.TetherTaskRunner - got configure
+759 [Connection to /127.0.0.1:52489] INFO org.apache.avro.mapred.tether.TetherTaskRunner - got input complete
+760 [Connection to /127.0.0.1:52489] INFO org.apache.avro.ipc.SaslSocketTransceiver - closing to 0.0.0.0/0.0.0.0:42383
+761 [SocketServer on 0.0.0.0/0.0.0.0:0] INFO org.apache.avro.ipc.SocketServer - stopping /0:0:0:0:0:0:0:0
